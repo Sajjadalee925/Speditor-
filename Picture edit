@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SPeditor - Photo Editor</title>
+</head>
+
+<body>
+
+  <h1>📸 SPeditor</h1>
+  <h2>Free Photo Editor</h2>
+
+  <p>Upload your photo and start editing.</p>
+
+  <input type="file" accept="image/*">
+
+</body>
+</html>
